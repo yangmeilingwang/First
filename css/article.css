@@ -1,0 +1,61 @@
+@media only screen and (min-width:992px) {
+	.banner img {
+		margin-top: 63px;
+	}
+}
+
+@media only screen and (min-width:767px) {
+	.banner img {
+		margin-top: 63px;
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.banner img {
+		margin-top: 63px;
+	}
+}
+
+body {
+	background: #f0f0f0;
+}
+
+.banner1 {
+	position: relative;
+	margin-top: 66px;
+}
+
+.bg-white {
+	background: #FFFFFF;
+	height: 100%;
+	padding: 0 63px;
+}
+
+p {
+	margin: 0 10px;
+}
+
+.article-top .the {
+	margin-top: 72px;
+}
+
+.service img {
+	margin: 0 auto;
+}
+
+.service .pic {
+	margin-bottom: 84px;
+}
+
+.share img {
+	float: left;
+	padding: 0 68px;
+}
+
+.sh {
+	width: 560px;
+	margin: 0 auto;
+}
+.share img:hover{
+	opacity: 0.8;
+}
